@@ -16,7 +16,6 @@ const Home = async ({ searchParams }: any) => {
 
 	return (
 		<>
-			{/* <> </> */}
 			<main className="overflow-hidden">
 				<Hero />
 
